@@ -21,10 +21,10 @@ body {
 }
 
 .principal {
-    background-image: url("luva_boxe.webp");
+    background-image: url("tiro.webp");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: top_corner;
+    align-items: center;
     text-align: center;
 }
 
