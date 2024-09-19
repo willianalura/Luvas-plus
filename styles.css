@@ -24,7 +24,7 @@ body {
     background-image: url("luva_boxe.webp");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: center;
+    align-items: top_corner;
     text-align: center;
 }
 
